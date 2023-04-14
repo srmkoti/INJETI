@@ -268,7 +268,9 @@ input,textarea,.input{
     color: beige;
     background: transparent;
 }
-
+.xyz{
+    background-color:cornflowerblue;
+}
 /* label{
     height: 100%;
     position: absolute;
